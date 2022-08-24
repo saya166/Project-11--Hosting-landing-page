@@ -2,16 +2,17 @@
 
 - ## _`: By Sayali Patil`_
 
-  **[Click here](https://hosting-landing-page-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
+  **[Click here](https://hosting-landing-page-saya.netlify.app/) for the live demo of the webpage on [Netlify](https://www.netlify.com/).**
 
 ## Key Features
 
-**Hosting Landing Page** is The sample webpage that is Designed with HTML5 and CSS-3.
+**Hosting Landing Page** is The sample Responsive webpage that is Designed with HTML5 and CSS-3.
 
 - ### Font Used -
 
   - Roboto
 
+- `Media Queries' are used.
 - Icons are used from _canva_ and _pixel_.
 - The website is hosted on _Netlify_.
 - Used RGBA colors to make background transparent and then The _Register Now_ Button is created transparent to the screen.
