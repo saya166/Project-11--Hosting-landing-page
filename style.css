@@ -300,8 +300,7 @@ img[src="./assets/main4-circle.png"] {
 }
 .social-icons {
   height: 32px;
-  margin-top: 20px;
-  margin-left: -8px;
+  margin-top: 40px;
 }
 @media screen and (max-width: 1200px) {
   .main-logo {
